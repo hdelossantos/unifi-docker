@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM i386/ubuntu:xenial
 
 LABEL maintainer="Jacob Alberty <jacob.alberty@foundigital.com>"
 
